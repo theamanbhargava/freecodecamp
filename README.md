@@ -1,5 +1,5 @@
-# freecodecamp
-freecodecamp and other self-made webpages
+# freecodecamp & CS50
+freecodecamp and other self-made webpages and pset solutions
 
 ABOUT
 =====
