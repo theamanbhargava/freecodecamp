@@ -9,5 +9,11 @@ ABOUT
 USAGE
 =====
 
+CS50
+----
 usage for speller is as follows : ./speller texts/* 
 * = name of .txt file to check for typos
+
+FCC
+---
+For caesar.js, pass a string to the function and it will give de-rotated version
